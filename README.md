@@ -1,20 +1,7 @@
 # Vejr
-4 dec 1,9
+Denne kode bruger datavisualisering til at skabe et plot der viser Teperaturen og vindhastighgeden i danmark i en et års tidsperiode fra 01/01/1980 til den 01/01/1981.
 
-5 dec 1,3
 
-6 dec-1,3
+Vejr.py bruger 2 subplots til at visualisere dataen individuelt med en Y akse
 
-7 dec 0,9
-
-8 dec 1,5
-
-9 dec 1,1
-
-10 dec 1,6
-
-11 dec 0,8
-
-12 dec 2,4
-
-13 dec 5,8
+Doubletrouble.py bruger 1 subplot med 1 x akse men 2 individuelle y akser til samtidigt at vise dataen på samme akse.
